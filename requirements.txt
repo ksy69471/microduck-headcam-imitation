@@ -1,0 +1,17 @@
+# Python 3.12. Install a CUDA or CPU torch build that matches the machine
+# before or instead of the default wheel, for example:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+mujoco>=3.2
+numpy
+scipy
+matplotlib
+opencv-python-headless
+imageio
+imageio-ffmpeg
+pillow
+tqdm
+pyyaml
+onnxruntime
+torch
+torchvision
+huggingface_hub

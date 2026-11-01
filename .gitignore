@@ -1,0 +1,14 @@
+readonly/
+work/local/venv/
+work/local/runs/
+work/local/scratch/
+datasets/motions/*/
+!datasets/motions/.gitkeep
+__pycache__/
+*.pyc
+*.mp4
+*.pt
+*.onnx
+*.stl
+.env
+.DS_Store
